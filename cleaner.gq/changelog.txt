@@ -1,0 +1,14 @@
+Changelog (last updated 9/8/20)
+9/16/20 - Did some site tweaks and some polishing to the site.
+/
+9/8/20  - Added new proxy called "Alloy" to Schoolist3r. To view it, go to Surf Freely. Surviv.io on the arcade has been fixed and has full functionallity except loging in.
+/
+8/22/20 - Fixed the Joystick not appearing on Super Mario 64
+/
+8/8/20 - Replaced Node Unblocker with PowerMouse, a more capable proxy.
+/
+6/22/20 - Updated Super Mario 64 and added a remastered version of the game, revamping the graphics and adding more features. All saves will work on each version, so you dont have to worry about starting over again because you want to play the remastered version. All of your progress will stay the same on each version! 
+/
+6/18/20 - Updated the Coolmathgames section in the arcade, Updated Paper.io, Updated Cookie Clicker, and Added a changelog to schoolist3r!
+/
+6/17/20 - Patched a bug regarding the annoying zoom feature with mobile devices and chromebooks. The game should be playable now.
